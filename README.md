@@ -1,6 +1,8 @@
 postal
 =======
 
+See and use [https://github.com/drewr/postal](https://github.com/drewr/postal). This is a fork that was published to Clojars and still exists as a place holder.
+
 #### Internet email library for Clojure
 
 postal is a library for constructing and sending RFC822-compliant
